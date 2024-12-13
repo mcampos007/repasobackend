@@ -1,0 +1,13 @@
+{
+  "name": "clase_4",
+  "version": "1.0.0",
+  "description": "- Programacion sincrónica y asincronica para el manejo de ARCHIVOS\r - concocer el modulo nativo de nodejs para interactuar con ARCHIVOS\r - utilizar archivos con callbacks y promesas\r - ventajas y desventajas de Filesystem",
+  "main": "actividad.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -197,7 +197,6 @@ async function callApi() {
 callApi();
 ```
 
+paginas para practica de codeo
 codewars
 javascript.info
-
-# Finalizada la clase 3, se debe comenzr la clase 4

@@ -1,0 +1,50 @@
+[
+	{
+		"nombre": "mario",
+		"apellido": "campos",
+		"edad": 57,
+		"curso": "1"
+	},
+	{
+		"nombre": "cesar",
+		"apellido": "campos",
+		"edad": 57,
+		"curso": "1"
+	},
+	{
+		"nombre": "fernando",
+		"apellido": "campos",
+		"edad": 57,
+		"curso": "1"
+	},
+	{
+		"nombre": "claudia",
+		"apellido": "campos",
+		"edad": 57,
+		"curso": "1"
+	},
+	{
+		"nombre": "mario",
+		"apellido": "campos",
+		"edad": 57,
+		"curso": "1"
+	},
+	{
+		"nombre": "cesar",
+		"apellido": "campos",
+		"edad": 57,
+		"curso": "1"
+	},
+	{
+		"nombre": "fernando",
+		"apellido": "campos",
+		"edad": 57,
+		"curso": "1"
+	},
+	{
+		"nombre": "claudia",
+		"apellido": "campos",
+		"edad": 57,
+		"curso": "1"
+	}
+]
