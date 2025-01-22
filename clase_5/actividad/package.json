@@ -1,0 +1,12 @@
+{
+  "name": "actividad",
+  "version": "1.0.0",
+  "description": "NUmber Generation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mario campos",
+  "license": "ISC"
+}

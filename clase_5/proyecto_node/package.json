@@ -1,0 +1,15 @@
+{
+  "name": "proyecto_node",
+  "version": "1.0.0",
+  "description": "clase_05 npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mari campos",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
