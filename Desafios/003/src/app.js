@@ -52,6 +52,7 @@ app.get("/product/:id", async (req, res) => {
     const product = await pM.getProductById(idNumerico);
 
     return res.status(200).send(product);
+    
   } catch (error) {
     console.log(error);
     res.status(400).send("Error al recuperar Product");
