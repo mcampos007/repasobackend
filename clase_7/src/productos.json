@@ -1,0 +1,22 @@
+[
+  {
+    "id": "678d7125-2391-4307-9965-2c96de7b6755",
+    "title": "Titulo del producto",
+    "description": "Descripción del producto",
+    "price": 123.45,
+    "thumbnail": "img001.jpg",
+    "stock": 1500,
+    "code": 150,
+    "status": "Active"
+  },
+  {
+    "id": "f3e62177-ef7b-4dea-b4b5-b67d18e95666",
+    "title": "Titulo del producto 2",
+    "description": "Descripción del producto 2",
+    "price": 543.21,
+    "thumbnail": "img002.jpg",
+    "stock": 2500,
+    "code": 151,
+    "status": "Active"
+  }
+]
