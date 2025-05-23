@@ -1,0 +1,22 @@
+{
+  "name": "npm_01",
+  "version": "1.0.0",
+  "description": "Primer Proyecto NPM",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "author": "Mario Campos",
+  "license": "ISC",
+  "dependencies": {
+    "dbffile": "^1.12.0",
+    "mysql2": "^3.14.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

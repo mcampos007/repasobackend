@@ -64,6 +64,7 @@ export default class productManager {
       if (!obj.code) {
         throw new Error("El código es obligatorio.");
       }
+
       if (!obj.status) {
         throw new Error("El estado es obligatorio.");
       }
@@ -88,9 +89,14 @@ export default class productManager {
     try {
       const products = await this.getProducts();
       const productIndex = products.findIndex((p) => p.id === id);
+      const productIndexCode = products.findIndex((p) => p.code === obj.code);
 
       if (productIndex === -1) {
         throw new Error(`Producto con ID ${id} no encontrado.`);
+      }
+
+      if (productIndexCode !== -1 && productIndexCode !== productIndex) {
+        throw new Error(`El producto con el código ${obj.code} ya existe.`);
       }
 
       const updatedProduct = {
@@ -118,10 +124,12 @@ export default class productManager {
       const products = JSON.parse(
         await fs.promises.readFile(this.path, "utf-8")
       );
+
       const newProducts = products.filter((p) => p.id !== id);
       if (products.length === newProducts.length) {
         throw new Error(`Producto con ID ${id} no encontrado.`);
       }
+
       await fs.promises.writeFile(this.path, JSON.stringify(newProducts));
       return {
         success: true,

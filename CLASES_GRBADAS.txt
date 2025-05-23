@@ -1,0 +1,48 @@
+Opcional: Principios de programación Backend: https://vimeo.com/1056570113/97874f10b4
+Principios básicos de JavaScript: https://vimeo.com/1056570114/a38600b505
+Nuevas funcionalidades de los lenguajes
+ECMAScritpt: https://vimeo.com/1056570123/858972c26e
+Programación sincrónica y asincrónica: https://vimeo.com/1056570121/74aeec9126
+Manejo de archivos en JavaScript: https://vimeo.com/1056570117/7d99033cbf
+Administrador de paquetes NPM: https://vimeo.com/1056570111/49b1bcf6f9
+Servidores web: https://vimeo.com/1056570119/44838f723a
+Express avanzado: https://vimeo.com/1056570120/52b7d6f34b
+
+Router y Multer: https://vimeo.com/1056570118/eea77b0fe7
+
+Motores de plantillas: https://vimeo.com/1056570115/520be7a6ec
+Websockets: https://vimeo.com/1056570126/76e7b2a02e
+Aplicación chat con Websockets: https://vimeo.com/1056570129/ded72c6e8d
+MongoDB: https://vimeo.com/1056570128/ff0cd6a41c
+CRUD en MongoDB: https://vimeo.com/1056570127/23c9a4e497
+Mongoose: https://vimeo.com/1056570131/65d0abbb17
+Primera práctica integradora: https://vimeo.com/1056570132/0e1d932ffe
+Mongo Avanzado (Parte I): https://vimeo.com/1056570136/852f1410a1
+Mongo Avanzado (Parte II): https://vimeo.com/1056570134/f98f6c059e
+Cookies, Sessions & Storages: https://vimeo.com/1056570133/dced2ac01a
+Cookies, Session & Storage II: https://vimeo.com/1056570138/7ff0651a5e
+Autorización y autenticación: https://vimeo.com/1056570144/6a21e42092
+Estrategia de autenticación por terceros + JWT: https://vimeo.com/1056570146/2dbbb6d8e4
+Passport Avanzado: https://vimeo.com/1056570149/44af4481b7
+Ruteo avanzado y estrategias avanzadas de autorización: https://vimeo.com/1056570147/f19847add0 Segunda práctica integradora: https://vimeo.com/1056570151/e92c8671d9
+Proceso principal del servidor + Global & Child Process: https://vimeo.com/1056570152/47623f714f Arquitectura por capas: https://vimeo.com/1056570150/9ce79eed22
+Arquitectura del servidor: Diseño: https://vimeo.com/1056570153/75ffc1179a
+Arquitectura del servidor: Persistencia: https://vimeo.com/1056570164/ff04cb24df
+Desarrollo de un servidor web basado en capas completo: https://vimeo.com/1056570167/c99c2d9655 Mailing y mensajería: https://vimeo.com/1056570168/2b8028ae97
+Test y Mocks: https://vimeo.com/1056570169/627690a664
+Optimización: https://vimeo.com/1056570170/27e4891c0e
+Versiones y paquetes: https://vimeo.com/1056570171/48718daaec
+Logging y performance: https://vimeo.com/1056570172/64db274175
+Clusters y escalabilidad: https://vimeo.com/1056570173/8736e6f261
+Orquestación de contenedores: https://vimeo.com/1056570187/e13fad8f46
+Tercera práctica integradora: https://vimeo.com/1056570188/fc987a2497
+Seguridad: https://vimeo.com/1056570189/b87181f62f
+Documentación de API: https://vimeo.com/1056570190/620579b126
+Testing unitarios: https://vimeo.com/1056570191/fe624b3bc6
+Testing Avanzado: https://vimeo.com/1056570192/2432ad729c
+Frameworks de desarrollo: NEST js I: https://vimeo.com/1056570193/e567002c5b
+Frameworks de desarrollo: NEST js II: https://vimeo.com/1056570194/186323ade3
+Cuarta práctica integradora: https://vimeo.com/1056570199/844769ab70
+Product Cloud: despliegue de nuestra aplicación: https://vimeo.com/1056570196/cf951eec1a
+Pasarelas de pago: https://vimeo.com/1056570201/9ef2fba724
+Si necesitas algo más, no dudes en

@@ -165,3 +165,12 @@ console.log(nuevoValor);
 ### Variables privadas
 
 En JavaScript, una variable privada dentro de una clase es una propiedad que solo puede ser accedida o manipulada desde dentro de la clase misma. Esto garantiza que su valor no pueda ser alterado directamente desde fuera de la clase, lo que mejora la encapsulación y protege los datos.
+
+## CLASE 3 - PROGRAMACION SINCRONICA Y ASINCRONICA
+
+- Funciones callback
+- Modelo API REST
+- Creación de Promesas , Ejemplo de una API para test http://jsonplaceholder.typecode.com
+- Asyn / Await (Try / Catch)
+
+## time de la clase 01:24:00

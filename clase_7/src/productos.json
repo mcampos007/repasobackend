@@ -6,7 +6,7 @@
     "price": 123.45,
     "thumbnail": "img001.jpg",
     "stock": 1500,
-    "code": 150,
+    "code": "150",
     "status": "Active"
   },
   {

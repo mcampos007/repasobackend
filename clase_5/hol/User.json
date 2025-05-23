@@ -1,0 +1,16 @@
+[
+  {
+    "firstname": "mario",
+    "lastname": "Campos",
+    "username": "mcampos",
+    "password": "db3e003cef27aa0b5cf4901cbd788cfb41f4b25c83b216198fed82b06959d4e9",
+    "salt": "oj�\u0013\u001f�6\u0001�\f�vF\b���\"|��#\u0005��X]f$�\n.�Y_��P���q\ná**)\u0011Z\r�Ms��)����\u0003ą�7R�U�W��{-��T9\u0010O�}��\b�vA)\u001e�Y#�?�gi��Q\u001bj\u0015훴�o,��ta�?\u001d\u0001;<\u0011���ů"
+  },
+  {
+    "firstname": "cesar",
+    "lastname": "Campos",
+    "username": "ccampos",
+    "password": "4260ade191ad2f3b9f49650bffa8c20c6a882e85733f8640a0c4c31dca944860",
+    "salt": "�P�>.�>w\"Mu2\u0007C[IH\u0000\u0013?E*\b�\u000f.\u0013O\u0017LM\u0015�M®C��qW��?K\u0007��\\U���`�v*g��W��\u0012Q��]�z��n?��~�}�_�78|\u001e����x~^x��\u0006�w\u0014�j�Z2^j��$\u000e�7�)M��O�B��_*"
+  }
+]

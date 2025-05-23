@@ -74,10 +74,10 @@ app.delete("/users/:id", async (req, res) => {
   try {
     const userId = req.params.id;
     const result = await userManager.deleteUser(userId);
-    if (result) {
-      res.status(200).json({ message: "Usuario eliminado" });
+    if (result.success) {
+      res.status(200).json({ message: result.message });
     } else {
-      res.status(404).json({ message: "Usuario no encontrado" });
+      res.status(404).json({ message: result.message });
     }
   } catch (error) {
     res.status(500).json({ error: error.message });
@@ -139,10 +139,10 @@ app.delete("/products/:id", async (req, res) => {
   try {
     const productId = req.params.id;
     const result = await productManager.deleteProduct(productId);
-    if (result) {
-      res.status(200).json({ message: "Producto eliminado" });
+    if (result.success) {
+      res.status(200).json({ message: result.message });
     } else {
-      res.status(404).json({ message: "Producto no encontrado" });
+      res.status(404).json({ message: result.error });
     }
   } catch (error) {
     res.status(500).json({ error: error.message });
